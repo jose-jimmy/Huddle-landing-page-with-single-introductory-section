@@ -26,14 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
+![](https://github.com/jose-jimmy/Images-in-readme/assets/88069006/8de95e55-9288-42a7-94bb-6f499d791a56)
+
 ![](https://github.com/jose-jimmy/Images-in-readme/assets/88069006/dae16be5-02a7-427f-ba60-859fef7d651b)
 
-![](https://github.com/jose-jimmy/Images-in-readme/assets/88069006/8de95e55-9288-42a7-94bb-6f499d791a56)
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/jose-jimmy/Huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://huddle-landing-page-jose-jimmy.vercel.app/)
 
 ## My process
 
