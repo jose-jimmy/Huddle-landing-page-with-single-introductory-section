@@ -110,7 +110,7 @@ section img{
     main{
         max-height: 100vh;
         background: url(./images/bg-desktop.svg) no-repeat;
-        padding: 40px 80px 40px 80px;
+        padding: 20px 80px 40px 80px;
         background-size: contain;
     }
     nav img{
@@ -123,7 +123,6 @@ section img{
     }
     section img {
         padding-top: 60px;
-        max-width: 55.5%;
         flex: 50%;
         align-self: flex-start;
     }
