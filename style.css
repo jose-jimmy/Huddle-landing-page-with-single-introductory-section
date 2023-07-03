@@ -123,7 +123,9 @@ section img{
     }
     section img {
         padding-top: 60px;
-        max-width: 50.5%;
+        max-width: 55.5%;
+        flex: 50%;
+        align-self: flex-start;
     }
 
     .details{
